@@ -1,8 +1,8 @@
-﻿[project]
+[project]
 name = "beyond-manual-marking"
 version = "0.1.0"
 description = "AI-driven examination evaluation system"
-requires-python = "==3.12.*"
+requires-python = ">=3.12,<3.13"
 
 dependencies = [
     "fastapi[standard]",
